@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Thankful",
+  "base_artist": "Sizuk",
+  "createdAt": "2026-03-01T04:04:02.751685Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Be Thankful For What You've Got - Perfecto Mix",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/01_Be_Thankful_For_What_You've_Got_-_Perfecto_Mix_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Be Thankful for What You've Got (Perfecto Mix)",
+      "artist": "Massive Attack",
+      "has_synced": false,
+      "path": "select/02_Be_Thankful_for_What_You've_Got_(Perfecto_Mix)_Massive_Attack.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Be Thankful For What You've Got",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/03_Be_Thankful_For_What_You've_Got_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "All That I'm Allowed (I'm Thankful)",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/04_All_That_I'm_Allowed_(I'm_Thankful)_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Be Thankful for What You Got (Pt. 1 & Pt. 2)",
+      "artist": "William DeVaughn",
+      "has_synced": false,
+      "path": "select/05_Be_Thankful_for_What_You_Got_(Pt._1_&_Pt._2)_William_DeVaughn.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Be Thankful For What You Got (Part 1 & Part 2)",
+      "artist": "William DeVaughn",
+      "has_synced": false,
+      "path": "select/06_Be_Thankful_For_What_You_Got_(Part_1_&_Part_2)_William_DeVaughn.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Thankful",
+      "artist": "Kodak Black",
+      "has_synced": true,
+      "path": "select/07_Thankful_Kodak_Black.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "THANKFUL (feat. Lil Wayne & Jeremih)",
+      "artist": "DJ Khaled feat. Lil Wayne & Jeremih",
+      "has_synced": true,
+      "path": "select/08_THANKFUL_(feat._Lil_Wayne_&_Jeremih)_DJ_Khaled_feat._Lil_Wayne_&_Jeremih.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "THANKFUL (feat. Lil Wayne & Jeremih)",
+      "artist": "DJ Khaled",
+      "has_synced": true,
+      "path": "select/09_THANKFUL_(feat._Lil_Wayne_&_Jeremih)_DJ_Khaled.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Be Thankful For What You've Got - 2012 Mix/Master",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/10_Be_Thankful_For_What_You've_Got_-_2012_Mix_Master_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Thankful",
+      "artist": "Kelly Clarkson",
+      "has_synced": false,
+      "path": "select/11_Thankful_Kelly_Clarkson.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Thankful",
+      "artist": "Joe Cocker",
+      "has_synced": true,
+      "path": "select/12_Thankful_Joe_Cocker.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Let Us Be Thankful",
+      "artist": "Texas",
+      "has_synced": false,
+      "path": "select/13_Let_Us_Be_Thankful_Texas.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Be Thankful For What You've Go",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/14_Be_Thankful_For_What_You've_Go_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Be Thankful for What You Got",
+      "artist": "William DeVaughn",
+      "has_synced": true,
+      "path": "select/15_Be_Thankful_for_What_You_Got_William_DeVaughn.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Thankful For What I've Got",
+      "artist": "Barbara Lewis",
+      "has_synced": true,
+      "path": "select/16_Thankful_For_What_I've_Got_Barbara_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "THANKFUL (feat. Lil Wayne & Jeremih)",
+      "artist": "DJ Khaled feat. Lil Wayne & Jeremih",
+      "has_synced": true,
+      "path": "select/17_THANKFUL_(feat._Lil_Wayne_&_Jeremih)_DJ_Khaled_feat._Lil_Wayne_&_Jeremih.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Thankful feat.やなぎなぎ",
+      "artist": "Sizuk",
+      "has_synced": false,
+      "path": "select/pl_01_Thankful_feat.やなぎなぎ_Sizuk.txt"
+    }
+  ]
+}
